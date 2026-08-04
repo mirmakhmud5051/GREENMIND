@@ -8,10 +8,10 @@ function Feedback() {
   return (
     <div className='flex items-center justify-center  '>
       <div className='flex items-center justify-around'>
-        <h1 className=' text-3xl ' >What customers say about GREENMIND?</h1>
+        <h1 className=' text-lg bg-amber-900 ' >What customers say about GREENMIND?</h1>
         <div></div>
       </div>
-      <div >
+      <div  className=' flex  ' >
         <div>
           <p>Jorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
           <div>
