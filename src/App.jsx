@@ -12,10 +12,11 @@ function App() {
       <Header></Header>
       <Hero></Hero>
     <Banner></Banner>
-    <Footer></Footer>
     <About></About>
     <Categories></Categories>
    <Feedback></Feedback>
+    <Footer></Footer>
+   
     </div>
   )
 }
